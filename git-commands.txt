@@ -1,0 +1,3 @@
+how to init a repo ? 
+gow to skip staged files ? 
+git commit -am
